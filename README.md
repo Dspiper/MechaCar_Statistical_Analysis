@@ -18,8 +18,8 @@ The variance for all manufacturing lots in total is 62.30, which does not exceed
 ## T-Tests on Suspension Coils
 <img width="442" alt="Screen Shot 2021-05-16 at 1 55 13 PM" src="https://user-images.githubusercontent.com/77817870/118412401-90531380-b64e-11eb-88e0-6a79d1f58a5c.png">
 
-<img width="439" alt="Screen Shot 2021-05-16 at 1 57 19 PM" src="https://user-images.githubusercontent.com/77817870/118412419-abbe1e80-b64e-11eb-8b3b-7b3b7b968d9e.png">
+<img width="564" alt="Screen Shot 2021-05-16 at 4 55 48 PM" src="https://user-images.githubusercontent.com/77817870/118417146-99041380-b667-11eb-8d4b-7da965266d62.png">
 
-<img width="441" alt="Screen Shot 2021-05-16 at 1 58 24 PM" src="https://user-images.githubusercontent.com/77817870/118412439-ce503780-b64e-11eb-8054-6d865884f616.png">
+<img width="566" alt="Screen Shot 2021-05-16 at 4 56 34 PM" src="https://user-images.githubusercontent.com/77817870/118417176-b5a04b80-b667-11eb-8d50-c70d88741026.png">
 
-<img width="440" alt="Screen Shot 2021-05-16 at 1 59 06 PM" src="https://user-images.githubusercontent.com/77817870/118412458-eb850600-b64e-11eb-8a9b-4627c687dc24.png">
+<img width="558" alt="Screen Shot 2021-05-16 at 4 57 10 PM" src="https://user-images.githubusercontent.com/77817870/118417205-ce106600-b667-11eb-91cc-f8423b1c54fb.png">
