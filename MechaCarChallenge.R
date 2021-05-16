@@ -15,11 +15,6 @@ lot_summary <- suspension_coil_table %>% group_by(Manufacturing_Lot) %>% summari
 #Deliverable 3
 t.test(suspension_coil_table$PSI,mu=1500)
 
-lot1_table <- suspension_coil_table %>% subset(Manufacturing_Lot=='Lot1')
-t.test(lot1_table$PSI,mu=1500)
-
-lot2_table <- suspension_coil_table %>% subset(Manufacturing_Lot=='Lot2')
-t.test(lot2_table$PSI,mu=1500)
-
-lot3_table <- suspension_coil_table %>% subset(Manufacturing_Lot=='Lot3')
-t.test(lot3_table$PSI,mu=1500)
+t.test(subset(suspension_coil_table,Manufacturing_Lot=='Lot1')$PSI,mu=1500)
+t.test(subset(suspension_coil_table,Manufacturing_Lot=='Lot2')$PSI,mu=1500)
+t.test(subset(suspension_coil_table,Manufacturing_Lot=='Lot3')$PSI,mu=1500)
