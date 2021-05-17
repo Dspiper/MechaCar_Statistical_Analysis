@@ -23,3 +23,5 @@ The variance for all manufacturing lots in total is 62.30, which does not exceed
 <img width="566" alt="Screen Shot 2021-05-16 at 4 56 34 PM" src="https://user-images.githubusercontent.com/77817870/118417176-b5a04b80-b667-11eb-8d50-c70d88741026.png">
 
 <img width="558" alt="Screen Shot 2021-05-16 at 4 57 10 PM" src="https://user-images.githubusercontent.com/77817870/118417205-ce106600-b667-11eb-91cc-f8423b1c54fb.png">
+
+The above results for t-tests on suspension coils we are assuming our significance level is the common 0.05 percent. Our p-values for all manufacturing lots, manufacturing lot 1, and manufacturing lot 2 are above our significance level. This means we do not have enough evidence to reject the null hypothesis and the two means for these 3 t-tests are statistically similar. Our p-value for manufacturing lot 3 is below our significane level. This means we have enough evidence to reject the null hypothesis and the two means are statistically different.
